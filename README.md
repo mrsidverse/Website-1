@@ -1,5 +1,5 @@
 # Creative Web Design
 
 - A simple website template for **Creative Web Design**.
-- Responsive
+- Responsive Landing Page
 - Html & CSS only
